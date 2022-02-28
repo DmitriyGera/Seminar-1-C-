@@ -1,0 +1,15 @@
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\bin\Debug\net6.0\Fork.exe
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\bin\Debug\net6.0\Fork.deps.json
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\bin\Debug\net6.0\Fork.runtimeconfig.json
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\bin\Debug\net6.0\Fork.dll
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\bin\Debug\net6.0\Fork.pdb
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\obj\Debug\net6.0\Fork.csproj.AssemblyReference.cache
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\obj\Debug\net6.0\Fork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\obj\Debug\net6.0\Fork.AssemblyInfoInputs.cache
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\obj\Debug\net6.0\Fork.AssemblyInfo.cs
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\obj\Debug\net6.0\Fork.csproj.CoreCompileInputs.cache
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\obj\Debug\net6.0\Fork.dll
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\obj\Debug\net6.0\refint\Fork.dll
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\obj\Debug\net6.0\Fork.pdb
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\obj\Debug\net6.0\Fork.genruntimeconfig.cache
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 1 C#\Fork\obj\Debug\net6.0\ref\Fork.dll
