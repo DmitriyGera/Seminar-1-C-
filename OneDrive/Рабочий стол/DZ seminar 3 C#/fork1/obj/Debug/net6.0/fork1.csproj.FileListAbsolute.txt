@@ -1,0 +1,15 @@
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\bin\Debug\net6.0\fork1.exe
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\bin\Debug\net6.0\fork1.deps.json
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\bin\Debug\net6.0\fork1.runtimeconfig.json
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\bin\Debug\net6.0\fork1.dll
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\bin\Debug\net6.0\fork1.pdb
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\obj\Debug\net6.0\fork1.csproj.AssemblyReference.cache
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\obj\Debug\net6.0\fork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\obj\Debug\net6.0\fork1.AssemblyInfoInputs.cache
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\obj\Debug\net6.0\fork1.AssemblyInfo.cs
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\obj\Debug\net6.0\fork1.csproj.CoreCompileInputs.cache
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\obj\Debug\net6.0\fork1.dll
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\obj\Debug\net6.0\refint\fork1.dll
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\obj\Debug\net6.0\fork1.pdb
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\obj\Debug\net6.0\fork1.genruntimeconfig.cache
+C:\Users\dimmo\OneDrive\Рабочий стол\DZ seminar 3 C#\fork1\obj\Debug\net6.0\ref\fork1.dll
